@@ -1,0 +1,16 @@
+{
+    "name": "vendor/phpbt",
+    "autoload": {
+        "psr-4": {
+            "Staff\\": "Staff/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Duy Khanh",
+            "email": "leduykhanh2725@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
